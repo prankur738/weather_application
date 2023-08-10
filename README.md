@@ -3,6 +3,9 @@
 
 Welcome to the Weather React App! This is a simple and intuitive web application built using ReactJS that provides real-time weather information for cities around the world. With just a few clicks, you can instantly access essential weather details such as temperature, humidity, wind speed, and current weather conditions for your desired city.
 
+
+## App Demo
+
 ![Screenshot 2023-08-10 112644](https://github.com/prankur738/weather_application/assets/58555740/6aaee938-9f7e-4345-8fb2-b8f0c50a8032)
 
 
