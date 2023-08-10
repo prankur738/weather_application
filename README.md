@@ -1,3 +1,4 @@
+![Screenshot 2023-08-10 112644](https://github.com/prankur738/weather_application/assets/58555740/6aaee938-9f7e-4345-8fb2-b8f0c50a8032)
 
 # Weather React App
 
