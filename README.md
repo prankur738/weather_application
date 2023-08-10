@@ -8,6 +8,8 @@ Welcome to the Weather React App! This is a simple and intuitive web application
 
 ![Screenshot 2023-08-10 112644](https://github.com/prankur738/weather_application/assets/58555740/6aaee938-9f7e-4345-8fb2-b8f0c50a8032)
 
+View [Live Demo](https://master.d1nucx4av9t1ba.amplifyapp.com)
+
 
 ## Features
 
@@ -29,6 +31,6 @@ Welcome to the Weather React App! This is a simple and intuitive web application
 
 - CSS: Styling to create a clean and user-friendly interface.
 
-View [Live Demo](https://master.d1nucx4av9t1ba.amplifyapp.com)
+
 
 
