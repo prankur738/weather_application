@@ -25,6 +25,6 @@ Welcome to the Weather React App! This is a simple and intuitive web application
 
 - CSS: Styling to create a clean and user-friendly interface.
 
-View [![Live Demo](https://master.d1nucx4av9t1ba.amplifyapp.com)]
+View [![Live Demo]](https://master.d1nucx4av9t1ba.amplifyapp.com)
 
 
